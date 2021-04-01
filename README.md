@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋 I'm Jose developer in Madrid but I have the pleasure of have being born in Granada, I like so much the tecnology and learn continuously to use it.
+
+- 🌱 I’m currently learning to use docker, to made microservices with architecture hexagonal
+- 💬 Ask me about solid, how to learn, php, testing, architecture backend, symfony ... 
+- 📫 How to reach me: you can write me to <a href="mailto:josefeelmotion@gmail.com">josefeelmotion@gmail.com</a>
+
+Best regards 👋
 
 <!--
 **josefm/josefm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
